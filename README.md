@@ -1,7 +1,3 @@
-# Adversarial Examples
-
-Just learning about and implementing some simple examples of adversarial examples in the MNIST dataset. 
-
 # 500px Challenge
 
 So for this challenge, I started off with building a simple FGSM classifier in "fast gradient method.ipynb"
@@ -9,6 +5,8 @@ So for this challenge, I started off with building a simple FGSM classifier in "
 I then used a stochastic optimization method shown in "stochastic optimization method.ipynb"
 
 The example images generated for this challenge (misclassify a 2 into a 6) are shown in "misclassified.png"
+
+![alt text](https://github.com/sylvesterchiang/500px/blob/master/misclassified.png)
 
 # Discussion
 
