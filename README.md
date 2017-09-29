@@ -6,8 +6,6 @@ I then used a stochastic optimization method shown in "stochastic optimization m
 
 The example images generated for this challenge (misclassify a 2 into a 6) are shown in "misclassified.png"
 
-Original Image      Adv Noise        Perturbed Image
-
 ![alt text](https://github.com/sylvesterchiang/500px/blob/master/misclassified.png)
 
 # Discussion
